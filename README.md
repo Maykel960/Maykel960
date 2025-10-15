@@ -1,53 +1,52 @@
-# Soy Miguel Garcia
-## Vivo en Burriana
-### Tengo 18 años
-#### Me gusta la musica argentina
-##### Soy del arsenal
-###### Viva Raul Albiol
+# ¡Hola! Soy Miguel García 👋
 
-**Texto en negrita de ejemplo**
+Estudiante de Grado Superior de Informática, enfocado en el desarrollo de aplicaciones multiplataforma (DAM). Soy una persona con iniciativa, vehículo propio y carnet de conducir, siempre dispuesto a seguir aprendiendo y aplicando mis conocimientos en proyectos innovadores.
 
-*Texto en cursiva*
+## 🎓 Formación
 
-* Item 1
-    * Item 1.1 
-* Item 2
-    * Item 2.1 
-* Item 3
-    * Item 3.1 
-* Item 4
+* **Grado Superior Informática (DAM - Desarrollo de Aplicaciones Multiplataforma)**
+    * *Actualidad (2024 - Actual) - En curso*
+* **Grado Medio Informática (SMX - Sistemas Microinformáticos y Redes)**
+    * *2022 - 2024*
+* **Curso de Prevención de Riesgos Laborales (PRL)**
+    * *2023 (50 horas)*
 
+## 💻 Habilidades Técnicas
 
-[Github] (https://github.com/)
+### Lenguajes de Programación
+* Java
 
-![GitHub] (https://cdn.prod.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg)
+### Bases de Datos
+* PostgreSQL
 
-| Mes | Numero |
-| ----------- | ----------- |
-| Enero | 1 |
-| Febrero | 2 |
-| Marzo | 3 |
-| Abril | 4 |
-| Mayo | 5 |
-| Junio | 6 |
+### Marketing Digital y Diseño
+* HTML
+* CSS
+* WordPress
+* PhotoShop
+* Sony Vegas
+* Canva
 
+### Sistemas Operativos
+* Todas las distribuciones de Windows
+* Distribuciones Linux
 
->Hola si
+### Ofimática
+* Microsoft 365
+* LibreOffice
 
-- [ ] Barcelona
-- [X] Cuenca
-- [ ] Valencia
-- [ ] Pamplona
-- [X] Galicia
+## 🌐 Idiomas
+| Idioma | Nivel |
+| :--- | :--- |
+| Español | Nativo |
+| Valenciano | Nativo |
+| Inglés | A2 (Obtenido 2021-2022) |
 
+## 🚗 Información Adicional
+* Carnet de conducir (Permiso B)
+* Vehículo propio
 
-
-
-
-
-
-
-  1. Item 1
-  3. Item 2
-  4. Item 3
-  5. Item 4
+## 📬 Contacto
+* **Email:** juanmigm770@gmail.com
+* **Teléfono:** 666 01 70 24
+* **Ubicación:** Burriana, CP 12530
