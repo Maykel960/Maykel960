@@ -48,5 +48,4 @@ Estudiante de Grado Superior de Informática, enfocado en el desarrollo de aplic
 
 ## 📬 Contacto
 * **Email:** juanmigm770@gmail.com
-* **Teléfono:** 666 01 70 24
 * **Ubicación:** Burriana, CP 12530
